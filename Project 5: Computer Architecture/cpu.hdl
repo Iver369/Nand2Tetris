@@ -16,7 +16,6 @@
  */
 
 CHIP CPU {
-
     IN  inM[16],         
         instruction[16], 
         reset;         
